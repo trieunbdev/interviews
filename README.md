@@ -35,7 +35,7 @@
 ## Linux
  
  1. File and folder permission
-   - giải thích quyền  ứng từ 0-7 của file và folder
+   - giải thích quyền tương ứng từ 0-7 của file và folder
    - Lệnh Kiểm tra permisson hiện tại
    - Lệnh Set permission cho file and folder
    - Lệnh Set quyền cho user và group
