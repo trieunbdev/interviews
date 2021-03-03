@@ -1,6 +1,6 @@
 # BE Interview Questions
 
-## PHP Questions
+## PHP
 
 1. MVC là gì ? Mô hình hoạt động của HTTP và MVC
 2. Vẽ mô hình một Request, Response có sử dụng MVC.
@@ -25,7 +25,7 @@
  3. Service container và Service provider là gì, phân biêt?
  4. Cho biết 1 số tính năng của laravel(Eloquent ORM, Template Engine, Artisan, Unit Testing, Migration system for databases,...)
 
-## SQL Questions
+## SQL
 
  1. Các loại join
  2. Dựng database của 1 trang web tin tức(users, categories, tags, posts, comments,...)
