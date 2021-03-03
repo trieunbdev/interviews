@@ -23,7 +23,7 @@
 ## Laravel
  1. Laravel sử dụng template engine nào?
  2. Middleware trong Laravel là gì và sử dụng như thế nào?
- 3. Service container và Service provider là gì, phân biêt?
+ 3. Service container và Service provider là gì?
  4. Cho biết 1 số tính năng của laravel(Eloquent ORM, Template Engine, Artisan, Unit Testing, Migration system for databases,...)
 
 ## SQL
