@@ -1,4 +1,4 @@
-# Interviews
+# BE Interview Questions
 
 ## PHP Questions
 
@@ -19,9 +19,27 @@
 15. Htaccess là gì ? Tác dụng của nó như thế nào ?
 16. Viết giải thuật tính fibonaci đệ quy.
 
+## Laravel
+ 1. Laravel sử dụng template engine nào?
+ 2. Middleware trong Laravel là gì và sử dụng như thế nào?
+ 3. Service container và Service provider là gì, phân biêt?
+ 4. Cho biết 1 số tính năng của laravel(Eloquent ORM, Template Engine, Artisan, Unit Testing, Migration system for databases,...)
+
 ## SQL Questions
 
  1. Các loại join
  2. Dựng database của 1 trang web tin tức(users, categories, tags, posts, comments,...)
  3. Viết SQL lấy ra bài viết nhiều comment nhất
  4. Viết SQL lấy ra 3 bài viết mới nhất
+
+## Linux
+ 
+ 1. File and folder permission
+   - giải thích quyền tưng ứng của filr và folder từ 0-7
+   - Kiểm tra permisson hiện tại
+   - Set permission cho file and folder
+   - Set quyền cho user và group
+ 2. Giải thích **swap space**.
+ 3. **symbolic link** là gì?
+
+
