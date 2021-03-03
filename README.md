@@ -1,6 +1,6 @@
 # interviews
 
-## Php Questions
+## PHP Questions
 
 - MVC là gì ? Mô hình hoạt động của HTTP và MVC
 - So sánh public, protected, private
