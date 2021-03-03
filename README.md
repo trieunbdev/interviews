@@ -18,6 +18,7 @@
 14. Restful API, SOAP API là gì. Sự giống và khác nhau giữa 2 loại này
 15. Htaccess là gì ? Tác dụng của nó như thế nào ?
 16. Viết giải thuật tính fibonaci đệ quy.
+17. Một số open source viết bằng php
 
 ## Laravel
  1. Laravel sử dụng template engine nào?
