@@ -35,10 +35,10 @@
 ## Linux
  
  1. File and folder permission
-   - giải thích quyền tưng ứng của filr và folder từ 0-7
-   - Kiểm tra permisson hiện tại
-   - Set permission cho file and folder
-   - Set quyền cho user và group
+   - giải thích quyền tưng ứng từ 0-7 của file và folder
+   - Lệnh Kiểm tra permisson hiện tại
+   - Lệnh Set permission cho file and folder
+   - Lệnh Set quyền cho user và group
  2. Giải thích **swap space**.
  3. **symbolic link** là gì?
 
