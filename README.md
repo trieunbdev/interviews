@@ -46,3 +46,6 @@
  2. Giải thích **swap space**.
  3. **symbolic link** là gì?
  ...
+ 
+ 
+ https://viblo.asia/p/junior-di-phong-van-laravel-thi-se-bi-hoi-nhung-gi-6J3ZgjPEKmB?fbclid=IwAR3QQzrsXDRzk-Er3tpnxBeWIMw_DVf_UOQ6VIU_vgsX4USpBiV23bnLiZU
